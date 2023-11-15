@@ -1,9 +1,4 @@
 ===========
-Deprecated
-===========
-Please use https://github.com/iMerica/dj-rest-auth as this project is no longer maintained. Thanks!
-
-===========
 django-cron
 ===========
 
@@ -28,3 +23,8 @@ Documentation
 http://django-cron.readthedocs.org/en/latest/
 
 This open-source app is brought to you by Tivix, Inc. ( http://tivix.com/ )
+
+Demo App
+=============
+
+https://github.com/Tivix/django-crone-demo
